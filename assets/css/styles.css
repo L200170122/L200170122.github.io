@@ -57,7 +57,7 @@ nav.navbar.navbar-default{
 }
 
 .navbar-header a.navbar-brand img{
-  height: 30px;
+  height: 80px;
   margin-top: -4px;
 }
 
@@ -145,6 +145,16 @@ i.glyphicon.glyphicon-search{
   padding-top: 43px;
   padding-bottom: 25px;
   margin-bottom: 38px; 
+}
+
+#news.container .row .thumbnail{
+  width: 100%;
+  height: auto;
+}
+
+#news.container .row .caption{
+  padding: 15px;
+  text-align: center;
 }
 
 #gallery .container h1{
